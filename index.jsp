@@ -38,7 +38,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 	<form action="listBook.action" method ="post">
 		<input type="submit" value="Look At Whole Book List"/>
 	</form>
-	
+	<p>On my god! Too boring<p>
 	To find more, you can also...<nr>
 	Add a book!<a href="addBook.jsp">I wanna add!</a><br>
 	Renew a book!<a href="renewBook.jsp">I wanna renew!</a>
