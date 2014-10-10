@@ -22,7 +22,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 
   <body>
     <h1>This is Homepage. </h1><br>
-    <p> I think this is good<p>
     <p>Input the <strong>TITLE</strong> of book you want to research</p><br>
 	<form action="searchBook.action" method="post">
 		<input name="searchBookName" type="text" />
